@@ -1,0 +1,11 @@
+Test file with ransomware signatures.
+
+CRITICAL THREAT DETECTED!
+.encrypted (Hex: 2E656E637279707465)
+
+YOUR_FILES_ (Hex: 594F55525F46494C45535F)
+
+This file contains patterns matching ransomware behavior.
+pay bitcoin (Hex: 70617920626974636F696E)
+
+Do not use in production environments.

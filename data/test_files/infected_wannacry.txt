@@ -1,0 +1,39 @@
+WannaCry Ransomware Simulation
+===============================
+
+CRITICAL THREAT: WannaCry ransomware signatures detected!
+
+Ransomware Identification:
+wannacry
+
+Encryption Indicators:
+.encrypted
+YOUR_FILES_
+pay bitcoin
+encrypt
+
+Ransom Message:
+"Your files have been encrypted!"
+"To decrypt your files, you must pay"
+"Bitcoin payment required"
+
+File Extensions Targeted:
+- Documents (.doc, .pdf, .xls)
+- Images (.jpg, .png, .gif)
+- Databases (.sql, .mdb)
+- Archives (.zip, .rar)
+- Videos (.mp4, .avi)
+
+Network Propagation:
+- SMB vulnerability exploitation
+- Worm-like spreading capability
+- Self-replication mechanisms
+- Network scanning
+
+Payment Instructions:
+Bitcoin wallet addresses
+Tor payment portals
+Countdown timers
+
+This simulates the infamous WannaCry ransomware.
+Should be flagged as CRITICAL with multiple signatures.

@@ -1,0 +1,44 @@
+Advanced Rootkit Detection Test
+================================
+
+CRITICAL: Advanced rootkit signatures detected!
+
+Bootkit Signatures:
+TDL4
+necurs
+alureon
+
+UEFI/BIOS Infection:
+uefi
+bios
+
+Kernel-Mode Rootkits:
+- Kernel driver manipulation
+- System call hooking: Hook
+- SSDT (System Service Descriptor Table) modification
+- IRP (I/O Request Packet) hooking
+
+Stealth Techniques:
+zacinlo
+tdss
+
+Hidden Processes:
+NtQuerySystem
+
+MBR (Master Boot Record) Infection:
+- Boot sector modification
+- Partition table tampering
+- Pre-boot environment infection
+
+Registry Persistence:
+Run
+Software
+
+Detection Evasion:
+- Anti-debugging techniques
+- Anti-VM detection
+- Sandbox evasion
+- Analysis tool detection
+
+This file simulates advanced rootkit behavior.
+Should be detected as CRITICAL threat level.

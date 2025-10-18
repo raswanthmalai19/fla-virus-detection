@@ -1,0 +1,39 @@
+Clean Email Message
+===================
+
+From: john.doe@company.com
+To: team@company.com
+Subject: Weekly Team Meeting Notes
+Date: October 13, 2025
+
+Dear Team,
+
+I hope this email finds you well. I wanted to share the key points from our weekly meeting:
+
+Meeting Agenda:
+1. Project status updates
+2. Upcoming deadlines
+3. Team collaboration improvements
+4. Q&A session
+
+Action Items:
+- Complete code review by Friday
+- Update project documentation
+- Schedule one-on-one meetings
+- Prepare presentation for next week
+
+Resources:
+Please access the shared folder for meeting materials and presentations.
+All documents are available on our internal portal.
+
+Next Meeting:
+Date: October 20, 2025
+Time: 10:00 AM
+Location: Conference Room B
+
+Best regards,
+John Doe
+Project Manager
+Company Inc.
+
+This is a legitimate business email with no suspicious content.

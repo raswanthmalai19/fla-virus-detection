@@ -1,0 +1,40 @@
+Clean Source Code Example
+=========================
+
+This file contains legitimate programming code with no malicious patterns.
+
+Python Function Example:
+def calculate_total(items):
+    total = 0
+    for item in items:
+        total += item.price
+    return total
+
+JavaScript Function Example:
+function validateEmail(email) {
+    const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return regex.test(email);
+}
+
+SQL Query Example (Safe):
+SELECT name, email, created_at 
+FROM users 
+WHERE status = 'active' 
+ORDER BY created_at DESC;
+
+HTML Template Example:
+<div class="container">
+    <h1>Welcome to Our Website</h1>
+    <p>This is a safe HTML template.</p>
+</div>
+
+CSS Styling Example:
+.button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+This is legitimate code with proper structure and no malicious intent.
+All patterns here are safe and commonly used in software development.

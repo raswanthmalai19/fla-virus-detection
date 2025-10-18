@@ -1,0 +1,19 @@
+Multi-threat test file containing various malicious patterns.
+
+Spyware signatures:
+GetAsyc (Hex: 47657441737963)
+Cookies (Hex: 436F6F6B696573)
+
+Exploit signatures:
+AAAAAAAAAA (Hex: 414141414141414141)
+SELECT * FROM (Hex: 53454C454354202A2046524F4D)
+
+Malware patterns:
+eval() (Hex: 6576616C28)
+exec() (Hex: 657865632829)
+socket (Hex: 736F636B6574)
+encrypt (Hex: 656E637279707)
+Hook (Hex: 486F6F6B)
+admin (Hex: 61646D696E)
+
+This file should trigger multiple algorithm detections.

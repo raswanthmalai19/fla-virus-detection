@@ -1,0 +1,38 @@
+Phishing Kit Detection Test
+============================
+
+WARNING: This file contains phishing malware signatures.
+
+Phishing Components:
+password
+banklogin
+spoof
+physhish 
+macroenable
+
+Credential Theft Patterns:
+- Login page clones detected
+- Form data interception
+- Keylogging capabilities
+- Session hijacking code
+- Cookie theft mechanisms
+
+Banking Trojans:
+zeus
+
+Targeted Services:
+- Banking websites
+- Email providers
+- Social media platforms
+- Corporate login portals
+- Payment systems
+
+Social Engineering Tactics:
+- Urgent action required
+- Account verification needed
+- Security alert messages
+- Prize/reward claims
+- Technical support scams
+
+This file simulates phishing attack components.
+Should be detected as HIGH threat level.

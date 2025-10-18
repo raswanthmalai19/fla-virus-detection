@@ -1,0 +1,31 @@
+Cryptocurrency Miner Detection Test
+====================================
+
+ALERT: This file contains cryptocurrency mining malware signatures.
+
+Mining Software Detected:
+monero
+coinhive
+bitcoinmin
+xmrig
+cpuminer
+
+Mining Pool Connections:
+- Connecting to mining pools
+- CPU hijacking detected
+- Unauthorized resource usage
+
+Browser-Based Mining:
+The following patterns indicate browser-based cryptocurrency mining:
+- JavaScript miners injected
+- Background mining processes
+- Unauthorized compute usage
+
+Performance Impact:
+- High CPU usage (95%+)
+- System slowdown
+- Increased power consumption
+- Overheating issues
+
+This file simulates cryptomining malware for testing purposes.
+Should be detected as HIGH threat level.

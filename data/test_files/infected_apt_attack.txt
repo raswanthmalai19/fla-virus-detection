@@ -1,0 +1,28 @@
+APT Attack Simulation File
+==========================
+
+WARNING: This file contains simulated APT (Advanced Persistent Threat) signatures.
+
+APT Groups Detected:
+lazarus
+fancybear
+cozybear
+equati
+turla
+
+Supply Chain Attack Patterns:
+ccleaner
+sunburst
+notpetya
+
+These patterns match nation-state sponsored malware and advanced persistent threats.
+This file should be detected as CRITICAL threat level.
+
+Additional APT Indicators:
+- Command and control communications: comman
+- Backdoor installations detected
+- Lateral movement patterns
+- Data exfiltration signatures
+
+This is a test file simulating sophisticated APT attacks.
+DO NOT USE THIS FILE IN PRODUCTION ENVIRONMENTS.

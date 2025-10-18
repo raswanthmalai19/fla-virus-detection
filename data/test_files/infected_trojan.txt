@@ -1,0 +1,9 @@
+Sample file with embedded malicious patterns for testing.
+
+This file contains trojan signatures:
+MZ������ (Hex: 4D5A90000300000004000000)
+
+The file also contains suspicious patterns that match known malware.
+UŽìƒÄðS (Hex: 558BEC83C4F053)
+
+WARNING: This is a test file for demonstration purposes only.

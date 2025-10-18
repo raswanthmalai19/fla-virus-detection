@@ -1,0 +1,34 @@
+IoT Botnet Malware Test File
+=============================
+
+CRITICAL: This file contains IoT botnet signatures.
+
+Botnet Families Detected:
+mirai
+bricker
+reaper
+vpnfilter
+hajime
+
+IoT Device Targeting:
+- Router compromise attempts
+- Smart camera infections
+- DVR device exploitation
+- IP camera backdoors
+- Network gateway attacks
+
+Botnet Capabilities:
+- DDoS attack coordination
+- Device bricking functionality
+- Network scanning
+- Credential brute-forcing
+- Firmware modification
+
+Attack Vectors:
+- Default password exploitation
+- Telnet service abuse: Telnet
+- Vulnerable service targeting
+- Firmware backdoors
+
+This file simulates IoT botnet malware for testing.
+Should be flagged as CRITICAL threat.
